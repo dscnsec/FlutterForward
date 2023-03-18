@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533374741809",
+    "project_id": "flutterforward-dsc",
+    "storage_bucket": "flutterforward-dsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533374741809:android:9434e746e952b8d4409410",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533374741809-e6jiag2bb478edap7c6dsf60tfkssuf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLkHFef5s3MyV0MLIgOh1DDYrIhQyMrSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533374741809-e6jiag2bb478edap7c6dsf60tfkssuf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
